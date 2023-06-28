@@ -1,0 +1,3 @@
+Riktvärde	                          Kall årstid	                    Sommar
+Operativ temperatur, varaktigt	    24 grader Celsius	              26 grader Celsius
+Operativ temperatur, kortvarigt	    26 grader Celsius	              28 grader Celsius
